@@ -1,0 +1,32 @@
+<head>
+  <title> Checo's Notes from Lesson 1 </title>
+</head>
+
+<h1> Background </h1>
+
+<b> How the Internet Works </b>
+<p> When you type an address on you browser, your computer sends a request
+to a server (a computer that stores the content you're looking for) using a
+language or protocol named HTTP. HTTP is sort of an instruction for the server,
+which uses that instruction to give you the information you want. Then the server
+gives you the information, and finally your browser translates that information
+into content you can see on your screen. All the content we see on the internet
+is largely made up of HTML documents. HMTL stands for Hypertext Markup Language
+and is the language browsers use to interpret web pages. The content of the web
+includes the client (your computer and the browser), the internet, and servers.
+The client and the servers interact through something called the Hypertext
+Transfer Protocol (HTTP).
+</p>
+
+<b> HTML Markup and Tags </b>
+<p> The HTML Markup is how the content looks like. To provide an specific look to
+the content the browser displays we use <em> tags </em>. In other words, tags
+are what we use to tell the browser how to display content in a web page. Most
+HTML tags consist of an opening tag and a closing tag.
+</p>
+
+<b> HMTL Attributes </b>
+<p> Some tags accept additional values called attributes. They provide additional
+information to the browser. One tag can cause different effects depending on the
+value of the tag attribute it has.
+</p>
