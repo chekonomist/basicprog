@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en-US"
+
 <head>
   <title> Checo's Notes from Lesson 1 </title>
 </head>
@@ -33,7 +36,7 @@ value of the tag attribute it has.
 </p>
 
 <b> Inline and Block </b>
-<p> HTML elements can either be <em> inline <em> or <block>. Block elements
+<p> HTML elements can either be <em> inline </em> or <block>. Block elements
   create a block around the content inside of them, so need to necessarly write
   an opening tag and a closing tag. Inline elements affect the content which is
   in the same line the tag is written.
